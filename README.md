@@ -3,3 +3,11 @@
 <h1 align="center">
   ✨🎉🎊Welcome to My World!🎊🎉✨
 </h1>
+## 🏫Education🏫
+
+- 
+
+## 🌍Languages🌍
+
+- Hindi: Native
+- English: Fluent
