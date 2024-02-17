@@ -24,5 +24,4 @@
 
 ## 🌍Languages🌍
 
-- Hindi: Native
 - English: Fluent
