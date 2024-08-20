@@ -38,3 +38,5 @@
 
 
 - English: Fluent
+- Hindi: Fluent
+- German : Fluent
